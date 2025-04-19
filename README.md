@@ -1,4 +1,4 @@
-# Graduation Rate Prediction for U.S. Colleges
+# Yale University Graduation Rate Prediction
 
 This project explores the use of linear regression models to predict graduation rates of colleges in the United States based on institutional features. Using a cleaned dataset of over 700 institutions, I aimed to identify significant predictors and build models that are interpretable and accurate.
 
